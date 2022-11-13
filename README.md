@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+# Install firebase
+
+### `npm install -g firebase-tools`
+### `firebase login`
+### `firebase init`
+### And for deploying `firebase deploy`
+# after you clone this repo, you have to install all depedencies by typing
+### `npm install`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
