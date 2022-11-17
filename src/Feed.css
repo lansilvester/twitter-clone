@@ -24,3 +24,21 @@
     font-size: 20px;
     font-weight: 800;
 }
+.btn__default{
+    font-weight: 800 !important;
+    color:white !important;
+    background: #50b7f5 !important;
+    border:none;
+    padding:10px 20px;
+    margin: 3em 1em;
+    border-radius:1em;
+    cursor: pointer
+}
+.no__data{
+    color:#333;
+    padding:10px 20px;
+    margin:10px;
+    border-left: 5px solid #ef8300;
+    border-right: 5px solid #ef8300;
+    background: #f5f2f2;
+}
